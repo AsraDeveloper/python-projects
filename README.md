@@ -18,11 +18,33 @@ This repository documents my progress in Python through practical applications a
 
 | Project | Description | Status |
 |---|---|---|
-| ATM Simulator | A console-based banking simulation | In progress |
+| ATM Simulator | A console-based banking simulation | planned |
 | Phone Book | A simple contact management application | In progress |
-| Calculator | A basic calculator application | Planned |
-| Number Guessing Game | A number guessing game | Planned |
+| Calculator | A basic calculator application | in progress |
+| Number Guessing Game | A number guessing game |in progress|
 
+📂 Projects
+
+1. Triangle Pattern
+
+A Python program focused on generating a triangle pattern using programming logic and repetition.
+
+Concepts: Loops, output formatting
+Status: Developed as a practice project
+
+2. ATM Simulator
+
+A console-based ATM simulation that practices basic banking operations and user interaction.
+
+Concepts: Conditional statements, loops, input validation, and program flow
+Status: In development
+
+3. Restaurant Program
+
+A Python program based on a restaurant scenario, designed to practice programming logic and process user input.
+
+Concepts: Conditional statements, calculations, and input handling
+Status: Developed as a practice project
 > Project statuses will be updated as development progresses.
 
 ## 🚀 Getting Started
